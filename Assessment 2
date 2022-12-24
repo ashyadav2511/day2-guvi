@@ -1,0 +1,11 @@
+1. Write a blog on the Difference between document & window objects?
+Answer
+The Document and Window objects are two of the most important objects in JavaScript. They are the two primary objects used to interact with the web page.   
+While both objects are essential for web page manipulation, there are a few key differences between them. 
+The Document object is used to access and manipulate the HTML elements of the web page. 
+It allows the user to access any element on the page and make changes to it. 
+This includes things like changing the text, adding and removing elements, and changing the styling of elements. 
+The Window object is used to interact with the browser window itself. It allows the user to manipulate the size and position of the window, open and close new windows, and control aspects of the browser such as pop-up blocking.
+It can also be used to access the current URL of the page and other information about the browser.
+Another key difference between the two objects is the way they are accessed in JavaScript. The Document object can be accessed using the document keyword, while the Window object can be accessed using the window keyword.
+In summary, the Document object is used to access and manipulate elements on the web page, while the Window object is used to interact with the browser window itself. Both objects are essential for manipulating web pages, but they are accessed in different ways.
